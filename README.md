@@ -2,23 +2,44 @@
 
 ## Scripts in Psychology and Artificial Intelligence
 
-Minsky
+* Minsky: to be added
 
-Schank & Abelson 1977: typical sequence of events with participants, e.g. restaurant script
+* [Schank & Abelson 1977, Scripts, Plans, Goals, and Understanding](https://www.taylorfrancis.com/books/mono/10.4324/9780203781036/scripts-plans-goals-understanding-roger-schank-robert-abelson): This seminal book develops the idea that humans know typical scripts, that is, typical sequences of events, and use them for making sense of the world. 
 
-Liechtenstein/Brewer 1980, Abbott/Black/Smith 1985, Austin/Vancouver 1996: Scripts consisting of scenes, segmented by participants’ goals 
+This idea has been further studied in many subsequent papers, among them: 
+
+* [Bower/Black/Turner 1979, Scripts in Memory for Text](https://psycnet.apa.org/record/1979-27802-001) 
+They test people's knowledge of scripts, including one experiment where participants put slashes in given stories to indicate "natural parts"
+
+* [Liechtenstein/Brewer 1980, Memory for goal-directed events](https://psycnet.apa.org/record/1980-24752-001): Goals and subgoals as the main organizing force of scripts. 
+
+* [Abbott/Black/Smith 1985, The representation of scripts in memory](https://psycnet.apa.org/record/1986-05481-001): They assume a 3-level hierarchy of scene actions (lowest), scene headers, script headers (highest). They find that people infer higher-level events from lower-level, but not vice versa.
+They hypothesize that there's a "goldilocks level", like basic kinds in concept representation theory, and it's scene headers. 
+
+* [Zwaan/Radavansky 1998, Situation models in language comprehension and memory](https://psycnet.apa.org/record/1998-00120-003): Humans build mental models. not model-theoretic but visual, spatial
+imaginings of what is talked about
+
+* [Austin/Vancouver 1996, Goal constructs in psychology: Structure, process, and content](https://psycnet.apa.org/record/1996-01405-002) They focus on defining the notion of goals in scripts
+
 
 ## Generalized Event Knowledge in psychology
 
-Elman
+While neither "scripts" nor "generalized event knowledge" are exactly defined in the literature (and probably they cannot be), Generalized Event Knowledge is about knowledge at a smaller scale than the scripts above: While scripts seem to be mainly long sequences of events structured into segments, Generalized Event Knowledge is about a single event and its participants. 
 
-Selectional preferences as concepts with typical features: McRae/Ferretti/Amyote 1997. 
+* Summary of this line of research in a single sentence (and an overview article): [McRae and Matsuki 2009, People use their knowledge of common events to understand language, and do so as quickly as possible](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-818X.2009.00174.x)
 
-“young naive gambler” is a more likely Theme than Agent of “manipulate”
-An event with all of its participants: Bicknell et al 2008, Hare et al 2009, McRae/Matsuki 2009. 
+In particular:
 
-“mechanic checks brakes” is more expected than “mechanic checks spelling” 
-Loosely co-occurring objects and events: Metusalem et al 2012
+* [McRae/Ferretti/Amyote 1997, Thematic roles as verb-specific concepts](https://www.researchgate.net/profile/Todd-Ferretti/publication/236594987_Thematic_Roles_as_Verb-specific_Concepts/links/0c9605182b658b3a38000000/Thematic-Roles-as-Verb-specific-Concepts.pdf) Selectional preferences as concepts with typical features. For example, “young naive gambler” is a more likely Theme than Agent of “manipulate”
+
+* Mention of an event along with one argument will make the listener expect specific other arguments, for example "mechanic checked... brakes" is more expected than "mechanic checked... spelling", and conversely for "journalist checked...":  [Bicknell et al 2008](http://grammar.ucsd.edu/labs/cpl/papers/bicknell_et_al_2008_cogsci.pdf), [Hare et al 2009](https://www.sciencedirect.com/science/article/abs/pii/S0010027709000389?dgcid=api_sd_search-api-endpoint)
+
+* There is also an effect of loosely co-occurring objects and events: [Metusalem et al 2012](https://www.sciencedirect.com/science/article/abs/pii/S0749596X12000034)
+
+* [Elman 2009](https://onlinelibrary.wiley.com/doi/10.1111/j.1551-6709.2009.01023.x) speculates that given that Generalized Event Knowledge does not easily fit into word-specific lexicon entries, and given that Generalized Event Knowledge influences human sentence processing, maybe we might not need to postulate a lexicon, and Generalized Event Knowledge might be enough.
+
+* [Chersoni et al 2019](https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/structured-distributional-model-of-sentence-meaning-and-processing/B263913EBBE16ECFED1F9439CFF78296) propose a computational model of Generalized Event Knowledge where (lexical) selectional preferences are re-ranked by event knowledge encoded in a graph. They also provide a challenge dataset.
+
 
 ## Situations, frames and scripts in linguistics
 
