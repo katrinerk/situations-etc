@@ -43,6 +43,15 @@ In particular:
 
 ## Situations, frames and scripts in linguistics
 
+### Situations, frames, and scripts and sentence understanding
+
+Frame semantics: [Fillmore 1982, Frame Semantics](https://d1wqtxts1xzle7.cloudfront.net/56172451/cognitive-linguistics-basics-readings-dirk-geeraerts-libre.pdf?1522159119=&response-content-disposition=inline%3B+filename%3DCognitive_linguistics_basics_readings_di.pdf&Expires=1678123724&Signature=SQFent21OdnRoNhbS5sGH5XDK6Gqq3j3mWBfU9N9EM6776-8FSYS39jwgeGSv88KNv2LT-3MaSIm~aZFajFjA2-w-SkZCjNUFHxUkWuDodZ71dikdQg5cvg~FaTKymaayw0AmEkqPYNVCXijtQKkqmAnNl0mdH2ZfPTXZQuaknfVG~kA2dFeFbWfBs89ycXH2zqls9eWyv4WgjY~i3hgIIcZpqYMNOzfON-xDF5Iv87rYZn6GU1K7qLDxddswTWy05vEYOtvtv4I99~41Ak44kzv5SHzqHYExGsX8A~gDvbqsezR~dK5uozuNej1uokcd-olNWj98qM24EuxlaQ0ww__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=382), [1985, Frames and the Semantics of Understanding](https://www1.icsi.berkeley.edu/pubs/ai/framesand85.pdf), [Fillmore et al 2003 Background to FrameNet](https://academic.oup.com/ijl/article-abstract/16/3/235/936943?redirectedFrom=fulltext&login=false)
+
+Charles Fillmore's frames are "a general cover term for the set of concepts variously known, in tyhe literature on natural language understanding, as 'schema', 'script', 'scenario', 'ideational scaffolding', 'cognitive model' or 'folk theory'" ([Fillmore 1982](https://d1wqtxts1xzle7.cloudfront.net/56172451/cognitive-linguistics-basics-readings-dirk-geeraerts-libre.pdf?1522159119=&response-content-disposition=inline%3B+filename%3DCognitive_linguistics_basics_readings_di.pdf&Expires=1678123724&Signature=SQFent21OdnRoNhbS5sGH5XDK6Gqq3j3mWBfU9N9EM6776-8FSYS39jwgeGSv88KNv2LT-3MaSIm~aZFajFjA2-w-SkZCjNUFHxUkWuDodZ71dikdQg5cvg~FaTKymaayw0AmEkqPYNVCXijtQKkqmAnNl0mdH2ZfPTXZQuaknfVG~kA2dFeFbWfBs89ycXH2zqls9eWyv4WgjY~i3hgIIcZpqYMNOzfON-xDF5Iv87rYZn6GU1K7qLDxddswTWy05vEYOtvtv4I99~41Ak44kzv5SHzqHYExGsX8A~gDvbqsezR~dK5uozuNej1uokcd-olNWj98qM24EuxlaQ0ww__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=382)). Frames are cognitive objects, prototypical situations, chunks of background information that are being evoked whenever you hear a lexical unit (word, multiword expression, construction). 
+
+[Fillmore 1982](https://d1wqtxts1xzle7.cloudfront.net/56172451/cognitive-linguistics-basics-readings-dirk-geeraerts-libre.pdf?1522159119=&response-content-disposition=inline%3B+filename%3DCognitive_linguistics_basics_readings_di.pdf&Expires=1678123724&Signature=SQFent21OdnRoNhbS5sGH5XDK6Gqq3j3mWBfU9N9EM6776-8FSYS39jwgeGSv88KNv2LT-3MaSIm~aZFajFjA2-w-SkZCjNUFHxUkWuDodZ71dikdQg5cvg~FaTKymaayw0AmEkqPYNVCXijtQKkqmAnNl0mdH2ZfPTXZQuaknfVG~kA2dFeFbWfBs89ycXH2zqls9eWyv4WgjY~i3hgIIcZpqYMNOzfON-xDF5Iv87rYZn6GU1K7qLDxddswTWy05vEYOtvtv4I99~41Ak44kzv5SHzqHYExGsX8A~gDvbqsezR~dK5uozuNej1uokcd-olNWj98qM24EuxlaQ0ww__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=382) argues that sentence understanding involves evoking and integrating frames for the words in the sentence. In [Fillmore 1985](https://www1.icsi.berkeley.edu/pubs/ai/framesand85.pdf) he also points to the importance of script knowledge in sentence understanding. His example is: "He pushed against the door. The room was empty." Fillmore writes: “we make the two sentences cohere by assuming that the goal somebody might have in pushing against a door is to get that door open, and that if one succeeded in getting the door open by such an act, one could then be in a position to notice whether the room was empty.” 
+[Recanati 2004, Literal Meaning, p.36](https://www.cambridge.org/core/books/literal-meaning/B9A2F7F07A7718A05996237E5D30898C) also makes the point that scripts (he calls them schemata) play a role in sentence understanding. 
+
 ### Situation semantics
 
 Situation semantics was introduced by Barwise and Perry, see [Barwise and Perry 1983](https://press.uchicago.edu/ucp/books/book/distributed/S/bo3625416.html).
@@ -65,12 +74,7 @@ Stojanovic describes situation theory as "breaking off with the Fregean heritage
 
 Barwise/Perry, Kratzer, Stojanovic
 
-### Situations, frames, and scripts and sentence understanding
 
-Fillmore: Frames are chunks of background information that are being evoked whenever you hear a word (or construction)
-frames as comprising schemas, scripts, situations
-
-Fillmore, Recanati point to importance of script knowledge in sentence understanding
 
 ### Situations in probabilistic semantics
 
