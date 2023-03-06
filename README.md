@@ -78,8 +78,10 @@ Barwise/Perry, Kratzer, Stojanovic
 
 ### Situations in probabilistic semantics
 
-Dobnik/Cooper/Lappin/Larsson: situations as atomic, with probabilistic propositions as types
+[Dobnik/Cooper/Lappin/Larsson 2015](https://aclanthology.org/2015.lilt-10.4/) propose a probabilistic semantics in which situations are atomic objects that have types that are (probabilistic) propositions, for example a situation s can be of the type "Kim is smiling" if Kim is smiling in s. (The paper argues for a situation-based probabilistic sematnics on the grounds that basing a probabilistic semantics on probabilities of worlds is fundamentally flawed: Worlds are so gigantic that they are not cognitively plausible objects that a cognizer could form a probability distribution over.)
 
-Lassiter/Goodman: generative model of situations, size based on question under discussion
+[Goodman and Lassiter 2015](https://web.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) propose a probabilistic view of language and thought in which a cognizer has the capacity to probabilistically imagine/generate situations, or chunks of worlds, and the capacity to test whether a particular utterance would be true in an imagined world chunk. The size of these imagined chunks is limited by the question under discussion (which is why they don't fall prey to the Lappin's probabilistic-world-size problem from above). 
+
+[Venhuizen et al 2021](https://pure.rug.nl/ws/portalfiles/portal/225895108/1_s2.0_S089054012100078X_main.pdf) propose a distributional probabilistic model in which the listener incrementally builds a mental image of the situation presented in a sentence, and forms probabilistic inferences on that basis. This builds on [Frank et al 2003](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog2706_3)
 
 ## Narrative schemas and scripts in computational linguistics
