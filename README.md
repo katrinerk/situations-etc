@@ -43,7 +43,7 @@ In particular:
 
 ## Situations, frames and scripts in linguistics
 
-### Situations, frames, and scripts and sentence understanding
+### Frames, scripts, and sentence understanding
 
 Frame semantics: [Fillmore 1982, Frame Semantics](https://d1wqtxts1xzle7.cloudfront.net/56172451/cognitive-linguistics-basics-readings-dirk-geeraerts-libre.pdf?1522159119=&response-content-disposition=inline%3B+filename%3DCognitive_linguistics_basics_readings_di.pdf&Expires=1678123724&Signature=SQFent21OdnRoNhbS5sGH5XDK6Gqq3j3mWBfU9N9EM6776-8FSYS39jwgeGSv88KNv2LT-3MaSIm~aZFajFjA2-w-SkZCjNUFHxUkWuDodZ71dikdQg5cvg~FaTKymaayw0AmEkqPYNVCXijtQKkqmAnNl0mdH2ZfPTXZQuaknfVG~kA2dFeFbWfBs89ycXH2zqls9eWyv4WgjY~i3hgIIcZpqYMNOzfON-xDF5Iv87rYZn6GU1K7qLDxddswTWy05vEYOtvtv4I99~41Ak44kzv5SHzqHYExGsX8A~gDvbqsezR~dK5uozuNej1uokcd-olNWj98qM24EuxlaQ0ww__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=382), [1985, Frames and the Semantics of Understanding](https://www1.icsi.berkeley.edu/pubs/ai/framesand85.pdf), [Fillmore et al 2003 Background to FrameNet](https://academic.oup.com/ijl/article-abstract/16/3/235/936943?redirectedFrom=fulltext&login=false)
 
@@ -61,34 +61,27 @@ Kratzer: "Situation semantics was developed as an alternative to possible worlds
 
 [Devlin](https://web.stanford.edu/~kdevlin/Papers/HHL_SituationTheory.pdf) writes: "Situation semantics provides a relational theory of meaning. In its simplest form, the meaning of an expression $\phi$ is taken to be a relation $d, c∥\phi∥s$ between an utterance or discourse situation d, a speaker’s connection function c, and a described situation s."
 
-More Devlin: "Information is always taken to be information about some situation, and is as- sumed to be built up from discrete informational items known as infons." An infon has the shape $\ll R, a_1, \ldots, a_n, 1 \gg$ or $\ll R, a_1, \ldots, a_n, 0 \gg$ where R is an n-place relation, and the $a_i$ are objects appropriate for $R$. Infons are made factual (or not) by situations. If in situation s, objects $a_1, \ldots, a_n$ stand in relation R, this is written as $s \models \ll R, a_1, \ldots, a_n, 1\gg$: s supports this infon. If it doesn't support it, there's a 0 instead of the 1 at the end of the infon. 
+More Devlin: "Information is always taken to be information about some situation, and is as- sumed to be built up from discrete informational items known as infons." An infon has the shape $\ll R, a_1, \ldots, a_n, 1 \gg$ or $\ll R, a_1, \ldots, a_n, 0 \gg$ where R is an n-place relation, and the $a_i$ are objects appropriate for $R$. Infons are made factual (or not) by situations. If in situation s, objects $a_1, \ldots, a_n$ stand in relation R, this is written as $s \models \ll R, a_1, \ldots, a_n, 1\gg$: s supports this infon. If the objects do not stand in the relation R in s, we have $s \models \ll R, a_1, \ldots, a_n, 0\gg$. Note that s might not support either the infon with 1 nor the infon with 0, so support for infons is partial.
 
-Situation theory is helpful for describing the meaning of embedded clauses, whose meanings can now be described not s a sense/intension, but as a situation. [Kratzer](https://plato.stanford.edu/entries/situations-semantics/)
-
-
-Stojanovic describes situation theory as "breaking off with the Fregean heritage"
-
-* Primacy of situations. "reality consists primarily of situations, while other categories, such as individuals, properties, or locations, arise as uniformities across situations"
-* Partiality: "information is [...] partial"
-* Efficiency of language: "same words can be used in different contexts to mean different things"
-* A relational theory of meaning: "the idea that meaning should be seen as a relation between situations, rather than some kind of independent entity"
-* Uniformities and constraints: "agents get attuned to various kinds of uniformities, which allow them to classify the reality in ways that enhance their capacities for action". "constraints are then seen as uniformities that arise among the ways in which situations relate to one another
-* The reference relation and its relata: "instead of taking reference to be a relation between a *sentence* and its *truth value*, it takes it to be a relation between *utterances* and (other) situations; secondly, instead of taking reference to be a relation between a *name* [...] and an *individual*, it takes it to be a relation again between utterances [...] and other situations"
-* Truth as uniformity across situations: "truth is merely a device that helps us classify situations"
-* Semantic innocence and attitude reports: "one of the main motivations is that the embedded clause [...] should have the same meaning as it does when it occurs on its own"
+Situation theory is helpful for describing the meaning of embedded clauses, whose meanings can now be described not as a sense/intension, but as a situation. [Kratzer](https://plato.stanford.edu/entries/situations-semantics/) explains how that helps for drawing the right inferences from direct perception reports, such that, if "Beryl saw that Meryl sprinkled the white powder on Cheryl’s dinner", it does not follow that "Beryl saw that Meryl sprinkled the most deadly poison on Cheryl’s dinner."
 
 
+[Stojanovic](https://hal.science/file/index/docid/629850/filename/situationsemantics.pdf) describes Situation Theory as "breaking off with the Fregean heritage", with main themes including: *primacy of situations* ("reality consists primarily of situations, while other categories, such as individuals, properties, or locations, arise as uniformities across situations"), *partiality* ("information is [...] partial"), *relational theory of meaning* ("the idea that meaning should be seen as a relation between situations, rather than some kind of independent entity"), *uniformities and constraints* ("agents get attuned to various kinds of uniformities, which allow them to classify the reality in ways that enhance their capacities for action"; "constraints are then seen as uniformities that arise among the ways in which situations relate to one another"), *truth as uniformity across situations* ("truth is merely a device that helps us classify situations").
 
-Barwise/Perry, Kratzer, Stojanovic
-
-
+Theories of situations and generalized event knowledge in psychology, and also frame semantics, involve  types of situations that reoccur often enough to be remembered as typical. Similarly, situation theory talks about *constraints* that are uniformities in relations between situations, for example between smoke and fire; but situation theory also makes use of *particular* situations and the inferences that they afford, like the "Beryl" situation above. 
 
 ### Situations in probabilistic semantics
 
-[Dobnik/Cooper/Lappin/Larsson 2015](https://aclanthology.org/2015.lilt-10.4/) propose a probabilistic semantics in which situations are atomic objects that have types that are (probabilistic) propositions, for example a situation s can be of the type "Kim is smiling" if Kim is smiling in s. (The paper argues for a situation-based probabilistic sematnics on the grounds that basing a probabilistic semantics on probabilities of worlds is fundamentally flawed: Worlds are so gigantic that they are not cognitively plausible objects that a cognizer could form a probability distribution over.)
+**[Dobnik/Cooper/Lappin/Larsson 2015](https://aclanthology.org/2015.lilt-10.4/)** propose a probabilistic semantics in which situations are atomic objects that have types that are (probabilistic) propositions, for example a situation s can be of the type "Kim is smiling" if Kim is smiling in s. (The paper argues for a situation-based probabilistic sematnics on the grounds that basing a probabilistic semantics on probabilities of worlds is fundamentally flawed: Worlds are so gigantic that they are not cognitively plausible objects that a cognizer could form a probability distribution over.) 
 
-[Goodman and Lassiter 2015](https://web.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) propose a probabilistic view of language and thought in which a cognizer has the capacity to probabilistically imagine/generate situations, or chunks of worlds, and the capacity to test whether a particular utterance would be true in an imagined world chunk. The size of these imagined chunks is limited by the question under discussion (which is why they don't fall prey to the Lappin's probabilistic-world-size problem from above). 
+They mention Situation Theory as a background to the situation types that they use, but it didn't become clear to me what the exact connection is between Type Theory with Records and Situation Theory. 
 
-[Venhuizen et al 2021](https://pure.rug.nl/ws/portalfiles/portal/225895108/1_s2.0_S089054012100078X_main.pdf) propose a distributional probabilistic model in which the listener incrementally builds a mental image of the situation presented in a sentence, and forms probabilistic inferences on that basis. This builds on [Frank et al 2003](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog2706_3)
+**[Goodman and Lassiter 2015](https://web.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf)** propose a probabilistic view of language and thought in which a cognizer has the capacity to probabilistically imagine/generate situations, or chunks of worlds, and the capacity to test whether a particular utterance would be true in an imagined world chunk. The size of these imagined chunks is limited by the question under discussion (which is why they don't fall prey to the Lappin's probabilistic-world-size problem from above). 
+
+What notion of situation do they draw on? Actually, not really on any, because their probabilistic approach doesn't care about whether its elements are worlds or situations, the question under discussion cuts it down to the right size anyway. 
+
+**[Venhuizen et al 2021](https://pure.rug.nl/ws/portalfiles/portal/225895108/1_s2.0_S089054012100078X_main.pdf)** propose a distributional probabilistic model in which the listener incrementally builds a mental image of the situation presented in a sentence, and forms probabilistic inferences on that basis. This builds on [Frank et al 2003](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog2706_3)
+
+What notion of situations do they draw on?
 
 ## Narrative schemas and scripts in computational linguistics
