@@ -59,6 +59,13 @@ For overviews, see [Kratzer 2021, Situations in Natural Language Semantics ](htt
 
 Kratzer: "Situation semantics was developed as an alternative to possible worlds semantics. In situation semantics, linguistic expressions are evaluated with respect to partial, rather than complete, worlds. There is no consensus about what situations are, just as there is no consensus about what possible worlds or events are. According to some, situations are structured entities consisting of relations and individuals standing in those relations. According to others, situations are particular"
 
+[Devlin](https://web.stanford.edu/~kdevlin/Papers/HHL_SituationTheory.pdf) writes: "Situation semantics provides a relational theory of meaning. In its simplest form, the meaning of an expression $\phi$ is taken to be a relation $d, c∥\phi∥s$ between an utterance or discourse situation d, a speaker’s connection function c, and a described situation s."
+
+More Devlin: "Information is always taken to be information about some situation, and is as- sumed to be built up from discrete informational items known as infons." An infon has the shape $\ll R, a_1, \ldots, a_n, 1 \gg$ or $\ll R, a_1, \ldots, a_n, 0 \gg$ where R is an n-place relation, and the $a_i$ are objects appropriate for $R$. Infons are made factual (or not) by situations. If in situation s, objects $a_1, \ldots, a_n$ stand in relation R, this is written as $s \models \ll R, a_1, \ldots, a_n, 1\gg$: s supports this infon. If it doesn't support it, there's a 0 instead of the 1 at the end of the infon. 
+
+Situation theory is helpful for describing the meaning of embedded clauses, whose meanings can now be described not s a sense/intension, but as a situation. [Kratzer](https://plato.stanford.edu/entries/situations-semantics/)
+
+
 Stojanovic describes situation theory as "breaking off with the Fregean heritage"
 
 * Primacy of situations. "reality consists primarily of situations, while other categories, such as individuals, properties, or locations, arise as uniformities across situations"
