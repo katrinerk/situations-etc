@@ -70,6 +70,8 @@ Situation theory is helpful for describing the meaning of embedded clauses, whos
 
 Theories of situations and generalized event knowledge in psychology, and also frame semantics, involve  types of situations that reoccur often enough to be remembered as typical. Similarly, situation theory talks about *constraints* that are uniformities in relations between situations, for example between smoke and fire; but situation theory also makes use of *particular* situations and the inferences that they afford, like the "Beryl" situation above. 
 
+In situation theory, would generalized event knowledge and scripts count as constraints, uniformities in relations between situations, and would they thus be semantic in nature, rather than pragmatic/world knowledge? 
+
 ### Situations in probabilistic semantics
 
 **[Dobnik/Cooper/Lappin/Larsson 2015](https://aclanthology.org/2015.lilt-10.4/)** propose a probabilistic semantics in which situations are atomic objects that have types that are (probabilistic) propositions, for example a situation s can be of the type "Kim is smiling" if Kim is smiling in s. (The paper argues for a situation-based probabilistic sematnics on the grounds that basing a probabilistic semantics on probabilities of worlds is fundamentally flawed: Worlds are so gigantic that they are not cognitively plausible objects that a cognizer could form a probability distribution over.) 
