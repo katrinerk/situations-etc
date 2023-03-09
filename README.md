@@ -87,3 +87,39 @@ What notion of situation do they draw on? Actually, not really on any, because t
 What notion of situations do they draw on?
 
 ## Narrative schemas and scripts in computational linguistics
+
+### Narrative schema induction from corpus data
+
+Chambers and Jurafsky 2008, 2009
+
+Pichotta and Mooney 2014, 2016
+
+Balasubramanian et al 2013
+
+Chambers 2013
+
+Weber et al 2018, 2019, 2020
+
+Wang et al "story salads" 
+
+Li et al language modeling with latent situations
+
+### Datasets for narrative schemas
+
+Ruong Huang, automatically selecting narrative texts
+
+Chambers 2017 "behind the scenes"
+
+Mostafazadeh et al 2016 ROCstories
+
+Kwon et al 2020 Preconditions: PeKo
+
+Lal et al 2021: TellMeWhy
+
+Valurupalli et al 2022, POQUE
+
+### Graphs and narrative schemas
+
+Lee and Goldwasser
+
+Li et al 2020 connecting the dots
